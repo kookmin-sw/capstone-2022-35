@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 2022년 국민대학교 소프트웨어학부 캡스톤디자인 산학자유분반 35팀
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+(주) Theori 한국 산학 자유분반 프로젝트 입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 개요
 
-### Markdown
+**사내 보안규정(NDA)에 따라 상세한 사항은 공개적으로 게시 불가하여 간추려 소개합니다.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Theori 한국에서 출시한 버그바운티 플랫폼인 [PatchDay](https://patchday.io)의 `(OOOO)` 구축 프로젝트
+  - `(OOOO)` 기능 개발
+  - `(OOOO)` 에 필요한 대시보드 개발
+  - ...
 
-```markdown
-Syntax highlighted code block
+### 팀소개
 
-# Header 1
-## Header 2
-### Header 3
+- 소프트웨어학부 20163130 유현진
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+산학자유분반으로 학부생 단독 및 사내 개발팀과 함께 진행합니다.
