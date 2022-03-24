@@ -7,9 +7,8 @@
 **사내 보안규정(NDA)에 따라 상세한 사항은 공개적으로 게시 불가하여 간추려 소개합니다.**
 
 - Theori 한국에서 출시한 버그바운티 플랫폼인 [PatchDay](https://patchday.io)의 가상환경 아래서의 버그바운티 활동을 위한 개발 프로젝트
-  
 - Development project for bug bounty activities under the virtual environment of [PatchDay] (https://patchday.io)
-- 
+
 ### 팀소개
 
 - 소프트웨어학부 ****3130 유현진
