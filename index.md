@@ -11,7 +11,7 @@
   - 가상환경 연결 및 관리를 위한 프론트엔드 UI 및 개발
   - 사측 및 파트너사의 활동 대시보드 개발
   
-- Development project for bug bounty activities under the virtual environment of [PatchDay] (https://patchday.io)
+- Development project for bug bounty activities under the virtual environment of [PatchDay](https://patchday.io)
    - Virtual environment connection function (VPN Gateway, Backend infra)
    - Front-end UI and development for virtual environment connection and management.
    - Development of an activity dashboard for our company and partners.
