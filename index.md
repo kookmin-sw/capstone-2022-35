@@ -19,6 +19,7 @@ With this project, I want to develop a solution that allows both companies and h
 
 ### 소개 영상
 
+[![팀35소개영상](https://img.youtube.com/vi/i7k9EHho0E4/0.jpg)](https://youtu.be/i7k9EHho0E4) 
 
 
 
